@@ -1,0 +1,39 @@
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 200px;
+    position:sticky;
+}
+video{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 200px;
+    position:sticky;
+}
+.head{
+    text-align: center;
+    font-family: "Inconsolata", monospace;
+    text-decoration:double;
+    text-shadow:0pc;
+    text-transform: capitalize;
+    background-color: darkgrey;
+}
+.para1{
+    text-align: center;
+    font-family: "Barlow Condensed", sans-serif;
+
+}
+.para2{
+text-align: center;
+font-family: "Barlow Condensed", sans-serif;
+}
+.para3{
+text-align: center;
+font-family: "Barlow Condensed", sans-serif;
+}
+.para4{
+text-align: center;
+font-family: "Barlow Condensed", sans-serif;
+}
